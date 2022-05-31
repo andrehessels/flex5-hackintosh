@@ -7,4 +7,4 @@ Things that are not working (yet)
 - Internal microphone
 - Internal SSD
 
-For now, I have only tested my EFI folder in combination with Catalina. However, you should be able to boot all MacOS versions between 10.15.4 to 11.2.3 just fine.
+For now, I have only tested my EFI folder in combination with Catalina. However, you should be able to boot all MacOS versions between 10.15.4 and 11.2.3 (>= 11.3 requires USB mapping, which I have not done) just fine.
