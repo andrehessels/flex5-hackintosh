@@ -9,7 +9,7 @@ Things that are not working (yet)
 
 For now, I have only tested my EFI folder in combination with Catalina. However, you should be able to boot all MacOS versions between 10.15.4 and 11.2.3 (>= 11.3 requires USB mapping, which I have not done) just fine.
 
-##Setup
+## Setup
 1. Format your USB as FAT32, and create a folder on it named com.apple.recovery.boot
 2. Generate SMBIOS for MacbookAir9,1 and change the values accordingly in the config.plist with ProperTree
 3. Paste the EFI folder with the updated SMBIOS onto the root of your freshly formatted USB
