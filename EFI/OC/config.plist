@@ -1292,13 +1292,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF019310QX00001F</string>
+			<string>Enter your board serial here</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>yODr2xYC</data>
+			<data>Enter your ROM here</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1306,9 +1306,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookAir9,1</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFCP7ZRMNHP</string>
+			<string>Enter your system serial here</string>
 			<key>SystemUUID</key>
-			<string>E477B0FB-2A87-427A-9DCB-8AB87D973131</string>
+			<string>Enter your system UUID here</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
