@@ -6,7 +6,7 @@ Things that are not working (yet)
 - Internal trackpad
 - Internal microphone
 - Internal SSD
-- iGpu Acceleration
+- iGPU Acceleration
 
 For now, I have only tested my EFI folder in combination with Catalina 10.15.4 and Big Sur 11.2.1. However, you should be able to boot all MacOS versions between 10.15.4 and 11.2.3 (>= 11.3 requires USB mapping, which I have not done) just fine.
 
