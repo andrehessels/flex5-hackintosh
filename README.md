@@ -15,7 +15,7 @@ For now, I have only tested my EFI folder in combination with Catalina 10.15.4 a
 2. Generate SMBIOS for MacbookAir9,1 and change the values accordingly in the config.plist with ProperTree
 3. Paste the EFI folder with the updated SMBIOS onto the root of your freshly formatted USB
 4. Use macrecovery.py to download the BaseSystem DMG and chunklist file
-5. Place the downloaded BaseSystem files under the com.apple.recovery.boot folder you created earlier
+5. Place the downloaded BaseSystem DMG and chunklist files under the com.apple.recovery.boot folder you created earlier
 6. Boot using the USB, press the spacebar to show all bootable drives, and select the name of your USB
 7. Go to the Disk Utility section, click on View on the top and then click on "Show all drives"
 8. Erase/format the external SSD as APFS with a GUID partition scheme, after that is done; quit the Disk Utility
