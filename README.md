@@ -2,12 +2,13 @@
 This is a hackintosh project for the Lenovo Ideapad Flex 5, which uses OpenCore v0.7.8. Currently, it runs perfectly fine using an external SSD (I'm using the Samsung Portable T7). When trying to install MacOS on the internal SSD, the installer will freeze completely after a couple of minutes.
 
 Things that are not working (yet)
-- External video output (such as HDMI)
+- External video
 - Internal trackpad
 - Internal microphone
 - Internal SSD
+- iGpu Acceleration
 
-For now, I have only tested my EFI folder in combination with Catalina. However, you should be able to boot all MacOS versions between 10.15.4 and 11.2.3 (>= 11.3 requires USB mapping, which I have not done) just fine.
+For now, I have only tested my EFI folder in combination with Catalina 10.15.4 and Big Sur 11.2.1. However, you should be able to boot all MacOS versions between 10.15.4 and 11.2.3 (>= 11.3 requires USB mapping, which I have not done) just fine.
 
 ## Setup
 1. Format your USB as FAT32, and create a folder on it named com.apple.recovery.boot
